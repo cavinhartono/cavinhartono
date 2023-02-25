@@ -37,6 +37,6 @@
 
 <p align="center">
 <a href="https://cavinhartono.com"><img src="https://img.shields.io/badge/-cavinhartono.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cavinhartono"><img src="https://img.shields.io/badge/-Cavin%20Hartono-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cavinhartono"><img src="https://img.shields.io/badge/-Cavin%20Hartono%20Putra-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:muhammadcavin25@gmail.com"><img src="https://img.shields.io/badge/-muhammadcavin25@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
