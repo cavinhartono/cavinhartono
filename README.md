@@ -4,7 +4,6 @@
 
 <p align="center"> Junior Front-end Developer</p>
 
-<p align="center"><b>Visitor's Count</b></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cavinhartono&label=Profile%20views&color=2e3440&style=flat" alt="cavinhartono" /> </p>
 
 
