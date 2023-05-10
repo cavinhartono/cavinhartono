@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello, I am Cavin. </h1>
 
-<p align="center"> Junior Front-end Developer</p>
+<p align="center"> Junior Full Stack Developer</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cavinhartono&label=Profile%20views&color=2e3440&style=flat" alt="cavinhartono" /> </p>
 
@@ -11,7 +11,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=777BB4)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=777BB4)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
