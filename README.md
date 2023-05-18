@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
-<h1 align="center"> Hello, I am Cavin. </h1>
+<h1 align="center"> Hi! </h1>
 
 <p align="center"> Junior Full Stack Developer</p>
 
