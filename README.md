@@ -2,7 +2,11 @@
 
 <h1 align="center"> Hi! I'm Cavin </h1>
 
-<p align="center"> Calon Full Stack Developer</p>
+<p align="center"> A Computer Science Student</p>
+
+🌱 I’m currently learning Machine Learning / Artificial Intelligence Courses
+
+👨‍💻 All of my projects are available at Coming Soon!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cavinhartono&label=Profile%20views&color=2e3440&style=flat" alt="cavinhartono" /> </p>
 
