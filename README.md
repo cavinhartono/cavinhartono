@@ -1,7 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
-<h1 align="center"> Hi! I'm Cavin </h1>
-
 <p align="center"> A Computer Science Student</p>
 
 🌱 I’m currently learning Machine Learning / Artificial Intelligence Courses
